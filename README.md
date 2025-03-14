@@ -25,7 +25,7 @@ Puedes jugar al juego de **Amigo Secreto** de la siguiente manera:
 * Opción 1: Jugar directamente en GitHub Pages.
 Puedes acceder al proyecto en [GitHub Pages]
 ```bash
-https://frantholy.github.io/challenge-amigo-secreto-ALURA
+https://frantholy.github.io/
 ```
 * Opción 2: Cargar el Proyecto Localmente (sin conexión).
 Carga el proyecto en tu propia computadora para jugarlo localmente.
@@ -34,7 +34,7 @@ Carga el proyecto en tu propia computadora para jugarlo localmente.
    Abre tu terminal o línea de comandos y ejecuta el siguiente comando para clonar el proyecto:
 
    ```bash
-   git clone https://github.com/frantholy/challenge-amigo-secreto-ALURA.git
+   git clone https://github.com/frantholy/frantholy.github.io.git
 ```
 
 Una vez cargada la página del juego:
